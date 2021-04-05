@@ -2,6 +2,11 @@
 
 Based on [Monero](https://github.com/monero-project/monero)
 
+Fix missing test_name
+test/unit_tests/keccap.cpp and test/unit_tests/hmac_keccaak.cpp
+edited as fix for same error when I built on Ubuntu 20.04 green field build 
+https://github.com/monero-project/monero/pull/6346/files/dbfa4f84ee35ab85566d4e417be51b45cf35754c
+
 ## Coverage
 
 | Type      | Status |
